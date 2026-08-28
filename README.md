@@ -60,11 +60,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTanisha-max&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTanisha-max&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsharmadev&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsharmadev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevTanisha-max&theme=radical&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsharmadev&theme=radical&hide_border=true&background=0D1117"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevTanisha-max&theme=react-dark&bg_color=0D1117&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsharmadev&theme=react-dark&bg_color=0D1117&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -90,9 +90,9 @@
 *Deadlines? Challenges? Bombs? Bring it on.* 🔥💣
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/bomberman-contribution-graph.svg">
-  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/bomberman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tsharmadev/tsharmadev/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tsharmadev/tsharmadev/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/tsharmadev/tsharmadev/output/bomberman-contribution-graph.svg">
 </picture>
 
 ---
@@ -110,9 +110,9 @@
 
 | Project | Tech Stack | Link |
 |---------|------------|------|
-| **Food Surplus Distribution System** | Python, Flask, SQLite | [View →](https://github.com/DevTanisha-max/food-to-ngo-distribution-system) |
-| **Plant Disease Detection** | FastAPI, Streamlit, Docker | [View →](https://github.com/DevTanisha-max/plant_disease_detection_complete) |
-| **Java Chat Application** | Java, Sockets, Swing | [View →](https://github.com/DevTanisha-max/java-chat-application) |
+| **Food Surplus Distribution System** | Python, Flask, SQLite | [View →](https://github.com/tsharmadev/food-to-ngo-distribution-system) |
+| **Plant Disease Detection** | FastAPI, Streamlit, Docker | [View →](https://github.com/tsharmadev/plant_disease_detection_complete) |
+| **Java Chat Application** | Java, Sockets, Swing | [View →](https://github.com/tsharmadev/java-chat-application) |
 
 
 <!-- Footer Banner -->
