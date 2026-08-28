@@ -19,7 +19,7 @@ jobs:
       - name: Generate Bomberman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: DevTanisha-max
+          github_user_name: tsharmadev
           games: 'bomberman'
 
       - name: Push SVG to output branch
