@@ -32,18 +32,6 @@
 ---
 
 
-## 📌 My Projects
-
-| Project | Tech Stack | Link |
-|---------|------------|------|
-| **AgriBuddy2.0** | Python, FastAPI, React, Leaflet, scikit-learn, PyTorch, Docker | [View →](https://github.com/tsharmadev/AgriBuddy2.0) |
-| **Food Surplus Distribution System** | Python, Flask, SQLite | [View →](https://github.com/tsharmadev/food-to-ngo-distribution-system) |
-| **Plant Disease Detection** | FastAPI, Streamlit, Docker | [View →](https://github.com/tsharmadev/plant_disease_detection_complete) |
-| **Java Chat Application** | Java, Sockets, Swing | [View →](https://github.com/tsharmadev/java-chat-application) |
-
-
----
-
 
 ## 📈 GitHub Activity
 
@@ -64,6 +52,18 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
+
+---
+
+## 📌 My Projects
+
+| Project | Tech Stack | Link |
+|---------|------------|------|
+| **AgriBuddy2.0** | Python, FastAPI, React, Leaflet, scikit-learn, PyTorch, Docker | [View →](https://github.com/tsharmadev/AgriBuddy2.0) |
+| **Food Surplus Distribution System** | Python, Flask, SQLite | [View →](https://github.com/tsharmadev/food-to-ngo-distribution-system) |
+| **Plant Disease Detection** | FastAPI, Streamlit, Docker | [View →](https://github.com/tsharmadev/plant_disease_detection_complete) |
+| **Java Chat Application** | Java, Sockets, Swing | [View →](https://github.com/tsharmadev/java-chat-application) |
+
 
 ---
 
