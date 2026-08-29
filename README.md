@@ -31,21 +31,15 @@
 
 ---
 
-## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanisha-sharma-487bb430a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:tanishasharma8961@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/sha_taniii/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-  </a>
-</p>
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=tsharmadev&theme=github_dark&graph=true&languages=true&streak=true&header=true&summary=true&profile=true" alt="GitHub Insights" width="100%" />
+</div>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -57,14 +51,6 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=tsharmadev&theme=github_dark&graph=true&languages=true&streak=true&header=true&summary=true&profile=true" alt="GitHub Insights" width="100%" />
-</div>
 
 ---
 
@@ -107,6 +93,22 @@
 | **Plant Disease Detection** | FastAPI, Streamlit, Docker | [View →](https://github.com/tsharmadev/plant_disease_detection_complete) |
 | **Java Chat Application** | Java, Sockets, Swing | [View →](https://github.com/tsharmadev/java-chat-application) |
 
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanisha-sharma-487bb430a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:tanishaasha01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/sha_taniii/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+  </a>
+</p>
+
+---
 
 <!-- Footer Banner -->
 <p align="center">
