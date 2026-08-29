@@ -60,15 +60,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsharmadev&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsharmadev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsharmadev&theme=radical&hide_border=true&background=0D1117"/>
-</p>
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=tsharmadev&theme=github_dark&graph=true&languages=true&streak=true&header=true&summary=true&profile=true" alt="GitHub Insights" width="100%" />
+</div>
 
 ---
 
