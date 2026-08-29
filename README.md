@@ -83,7 +83,11 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsharmadev&theme=github-dark&hide_border=true"/>
+  <img src="https://img.shields.io/badge/GitHub_Contributions-View_Profile-181717?style=for-the-badge&logo=github" />
+  <br>
+  <a href="https://github.com/tsharmadev">
+    <img src="https://img.shields.io/badge/View_My_Profile-tsharmadev-2b3137?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
