@@ -27,7 +27,7 @@
 
 ---
 
-> _"You can have the project done on time: Done on Time. Done on Budget. Done properly - Pick Two."_ 
+> _"You can have the project done on time: Done on Time. Done on Budget. Done properly - Pick Two."_
 
 ---
 
@@ -39,6 +39,9 @@
   </a>
   <a href="mailto:tanishasharma8961@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/sha_taniii/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   </a>
 </p>
 
@@ -72,7 +75,7 @@
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/tanisha_sha?theme=dark&font=Karma&ext=heatmap" height="200" />
+  <img src="https://leetcard.jacoblin.cool/sha_taniii?theme=dark&font=Karma&ext=heatmap" height="200" />
 </p>
 
 ---
@@ -80,7 +83,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsharmadev&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsharmadev&theme=react-dark&bg_color=0D1117&hide_border=true&area=true"/>
 </p>
 
 ---
