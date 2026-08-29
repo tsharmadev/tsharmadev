@@ -83,7 +83,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsharmadev&theme=react-dark&bg_color=0D1117&hide_border=true&area=true"/>
+  <img src="https://grass-graph.moshimo.works/images/tsharmadev.png" alt="Contribution Graph" />
 </p>
 
 ---
