@@ -82,9 +82,11 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://grass-graph.moshimo.works/images/tsharmadev.png" alt="Contribution Graph" />
-</p>
+<a href="https://github.com/tsharmadev">
+  <p align="center">
+    <img src="https://img.shields.io/badge/View_My_GitHub_Contribution_Graph-tsharmadev-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+</a>
 
 ---
 
